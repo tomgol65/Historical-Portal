@@ -1,0 +1,13 @@
+.h1, h1{
+    color:white;
+    text-align: center;
+    margin-top: -40px !important;
+}
+.btn-info{
+    color: white !important;
+    background-color: black !important;
+    border-color:white !important;
+}
+img-fluid{
+    height: 400px !important;
+}

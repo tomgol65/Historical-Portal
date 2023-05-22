@@ -1,0 +1,7 @@
+
+.carousel-fade .carousel-item, .carousel-item img  {
+    max-height: 84vh;
+}
+.carousel-item.active{
+    text-align: center;
+}

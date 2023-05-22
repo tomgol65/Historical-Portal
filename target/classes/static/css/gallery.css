@@ -1,0 +1,30 @@
+h1{
+    color: white;
+}
+.btn-primary{
+    margin: auto;
+    position: absolute;
+    top: -18%;
+    left: 0%;
+    bottom: 0;
+    right: 0%;
+    height: 40px;
+    background-color: #212529 !important;
+    width: 20%!important;
+    border-color: white!important;;
+}
+.btn-success{
+    margin: auto;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    bottom: 0;
+    right: 0%;
+    height: 40px;
+    background-color: #212529 !important;
+    width: 20%!important;
+    border-color: white!important;;
+}
+.col-form-label{
+    color: white!important;
+}

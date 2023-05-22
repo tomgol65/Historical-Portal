@@ -1,0 +1,15 @@
+.btn-primary{
+    margin: auto;
+    position: absolute;
+    top: 53%;
+    left: 40%;
+    bottom: 0;
+    right: 40%;
+    height: 40px;
+    background-color: #212529 !important;
+}
+.card-header{
+    background-color: #212529 !important;
+    color: white;
+}
+
